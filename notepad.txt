@@ -1,0 +1,6 @@
+git --version
+ls to see the total no of files
+git status
+git add .
+git commit -m "YOUR MESSAGE"
+git push origin main -- to upload it to the repostiteries
